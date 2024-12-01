@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+/* Imagen de fondo */
+body {
+    background-image: url('https://images3.alphacoders.com/135/1351330.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff; /* Cambiar color del texto a blanco */
+  }
+  
+  /* Estilos personalizados para header y otros elementos */
+  header h1 {
+    font-size: 2.5rem;
+    color: #fff; /* Cambiar color del texto a blanco */
+  }
+  
+  section h2 {
+    font-size: 2rem;
+    color: #fff; /* Cambiar color del texto a blanco */
+  }
+  
+  section p {
+    color: #fff; /* Cambiar color del texto a blanco */
+  }
+  
+  footer {
+    position: relative;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo oscuro para hacer el texto legible */
+    color: #fff; /* Cambiar color del texto a blanco */
+  }
+  
